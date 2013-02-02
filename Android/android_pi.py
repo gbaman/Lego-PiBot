@@ -1,3 +1,8 @@
+#Script first written by paul from 
+#http://pdwhomeautomation.blogspot.co.uk/2012/11/raspberry-pi-powered-lego-car.html
+#Modified and updated by gbaman
+#Version 0.1
+
 import socket           
 import time 
 import android           
